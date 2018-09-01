@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa-",
+				"fa-facebook"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"cen",
+				"flex-center"
+			],
+			[
+				"i",
+				"initial\tbackground-size"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"over",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"blue",
+				"event_buffer_enable"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"Sign",
+				"Signup"
+			],
+			[
+				"di",
+				"diaries"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"1px",
+				"10px"
+			],
+			[
+				"pic",
+				"pic02"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			],
+			[
+				"overflow",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"wr",
+				"wrapper"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Website/css/bootstrap.css",
+		"/G/Website/css/animate.min.css",
+		"/G/Website/css/font-awesome.min.css",
+		"/G/Website/css/main.css",
+		"/G/Debsoc web/index.html",
+		"/C/Users/Agrawal System/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/G/Debsoc web/Members.html",
+		"/G/Website/menu.html",
+		"/G/Travel Website/Trouvaille/home.html",
+		"/G/Travel Website/Trouvaille/css/style.css",
+		"/G/bakery/css/main.css",
+		"/G/bakery/menu.html",
+		"/G/bakery/index.html",
+		"/G/bakery/team.html",
+		"/G/bakery/about.html",
+		"/G/bakery/contact.aspx",
+		"/G/bakery/js/main.js",
+		"/G/bakery/css/bootstrap.css",
+		"/G/bakery/css/bootstrap/bootstrap-grid.css",
+		"/G/bakery/css/bootstrap/bootstrap.css",
+		"/G/Debsoc/css/superslides.css",
+		"/G/Debsoc/style.css",
+		"/G/Debsoc/index.html",
+		"/G/Debsoc/course-archive.html",
+		"/G/bakery/css/nice-select.css",
+		"/G/Debsoc web/elements.html",
+		"/G/Debsoc web/assets/js/main.js",
+		"/G/Debsoc web/assets/css/main.css",
+		"/G/Debsoc web/Mission.html",
+		"/G/Debsoc web/Register.html",
+		"/G/Debsoc web/form.html",
+		"/G/HTML/js arrays.html",
+		"/G/HTML/switch.php",
+		"/G/PHP/foreach loop.php",
+		"/G/PHP/array.php",
+		"/G/HTML/javascript dynamic text.html",
+		"/G/Travel Website/Trouvaille/booknow.html",
+		"/G/Travel Website/Trouvaille/css/bootstrap.css",
+		"/G/Travel Website/Trouvaille/css/magnific-popup.css",
+		"/C/Users/Agrawal System/Downloads/luxehotel/luxehotel/index.html",
+		"/G/Travel Website/Trouvaille/login page.html",
+		"/G/Travel Website/Trouvaille/js/main.js",
+		"/C/Users/Agrawal System/Downloads/luxehotel/luxehotel/blog.html",
+		"/G/Travel Website/Trouvaille/css/animate.css",
+		"/G/Travel Website/Trouvaille/css/flexslider.css",
+		"/G/Travel Website/Trouvaille/css/owl.theme.default.min.css",
+		"/G/Travel Website/Trouvaille/signup.html",
+		"/G/Travel Website/Trouvaille/js/respond.min.js",
+		"/G/Travel Website/Trouvaille/America.html",
+		"/G/Travel Website/Trouvaille/Africa.html",
+		"/C/Users/Agrawal System/Downloads/luxehotel/luxehotel/css/style.css",
+		"/G/Travel Website/Trouvaille/fonts/fontawesome-free-5.0.13/fontawesome-free-5.0.13/web-fonts-with-css/css/fontawesome.css",
+		"/G/Travel Website/Trouvaille/css/font-awesome.min.css",
+		"/G/Debsoc web/assets/css/font-awesome.min.css",
+		"/G/Travel Website/Trouvaille/fonts/flaticon/font/flaticon.css",
+		"/G/Travel Website/Trouvaille/css/icomoon.css",
+		"/G/Travel Website/Trouvaille/fonts/flaticon/backup.txt",
+		"/G/Travel Website/Trouvaille/fonts/flaticon/font/Flaticon.eot",
+		"/G/Travel Website/Trouvaille/fonts/flaticon/font/Flaticon.woff",
+		"/G/Travel Website/Trouvaille/fonts/flaticon/font/Flaticon.svg",
+		"/G/Travel Website/Trouvaille/fonts/flaticon/font/Flaticon.ttf",
+		"/G/Travel Website/Trouvaille/fonts/flaticon/font/flaticon.html",
+		"/G/Travel Website/Trouvaille/fonts/flaticon/font/_flaticon.scss",
+		"/G/Travel Website/Trouvaille/css/owl.carousel.min.css",
+		"/G/Travel Website/luxehotel/css/style.css",
+		"/G/Travel Website/luxehotel/home.html",
+		"/C/Users/Agrawal System/Downloads/index.html",
+		"/G/Travel Website/luxehotel/js/main.js",
+		"/G/Travel Website/luxehotel/Europe.html",
+		"/G/Travel Website/luxehotel/Asia.html",
+		"/G/Travel Website/luxehotel/America.html",
+		"/G/Travel Website/luxehotel/Africa.html",
+		"/G/Travel Website/luxehotel/login page.html",
+		"/G/Travel Website/luxehotel/signup.html",
+		"/G/Travel Website/luxehotel/css/style.css.map",
+		"/G/Travel Website/luxehotel/js/jquery.waypoints.min.js",
+		"/G/Travel Website/luxehotel/js/jquery.magnific-popup.min.js",
+		"/G/Travel Website/luxehotel/css/bootstrap.css",
+		"/G/Travel Website/luxehotel/sass/bootstrap.scss",
+		"/G/Travel Website/luxehotel/css/animate.css",
+		"/C/Users/Agrawal System/Downloads/Travel Website/luxehotel/home.html",
+		"/C/Users/Agrawal System/Downloads/luxehotel/luxehotel/contact.html",
+		"/C/Users/Agrawal System/Downloads/luxehotel/luxehotel/home.html",
+		"/G/Python/calculator.py",
+		"/G/Debsoc web/Events.html",
+		"/G/Debsoc web/assets/js/jquery.min.js",
+		"/G/Debsoc web/assets/js/util.js",
+		"/G/Debsoc web/assets/js/skel.min.js",
+		"/G/templated-projection/assets/css/main.css",
+		"/G/templated-projection/assets/js/main.js",
+		"/G/templated-projection/Mission.html",
+		"/G/templated-projection/Members.html",
+		"/G/templated-projection/Events.html",
+		"/G/templated-projection/index.html",
+		"/G/templated-projection/assets/css/font-awesome.min.css",
+		"/G/templated-projection/assets/js/util.js",
+		"/C/Users/Agrawal System/portfolio/site/HelloWorld.html",
+		"/G/templated-projection/assets/js/skel.min.js",
+		"/G/templated-projection/assets/js/jquery.min.js",
+		"/G/templated-projection/CREDITS.txt",
+		"/G/templated-projection/generic.html",
+		"/G/templated-projection/elements.html",
+		"/G/HTML/New folder/newstyles.css",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/ContactFrom_v2/contact.html",
+		"/G/HTML/New folder/HOME.html",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/css/one-page-wonder.css",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/index.html",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/vendor/jquery/jquery.js",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/css/one-page-wonder.min.css",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/vendor/bootstrap/css/bootstrap-grid.css",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/vendor/bootstrap/css/bootstrap.css",
+		"/G/HTML/farenheittocelcius.html",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/vendor/bootstrap/css/bootstrap-reboot.min.css",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/vendor/bootstrap/css/bootstrap.min.css.map",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/vendor/bootstrap/css/bootstrap.min.css",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/scss/_navbar.scss",
+		"/C/Users/Agrawal System/Downloads/startbootstrap-one-page-wonder-gh-pages/scss/_bootstrap-overrides.scss",
+		"/G/Python/student.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
